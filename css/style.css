@@ -21,3 +21,13 @@ header{
 .didascalie{
     font-size: smaller;
 }
+.evidenziamento{
+    background-color: yellow;
+}
+.evidenziamento_head_tabella{
+    background-color: rgb(0, 166, 255);
+    color: white;
+}
+.evidenziamento_tabella{
+    background-color: aqua;
+}
