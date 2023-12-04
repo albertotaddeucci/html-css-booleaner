@@ -6,8 +6,18 @@ header{
     padding-bottom: 10px;
 }
 
-img {
+#logo {
     width: 180px;
     height: auto;
    
+}
+
+.testo-secondario{
+    color: gray;
+}
+.scritta-booleaner{
+    color: aqua;
+}
+.didascalie{
+    font-size: smaller;
 }
