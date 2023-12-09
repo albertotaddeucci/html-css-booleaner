@@ -1,14 +1,15 @@
 header{
-    background-color: aqua;
-    background-image:url(../img/pattern.png);
-    background-size:contain;   
-    padding-top: 50px;
-    padding-bottom: 10px;
+    background-color: rgb(0, 166, 255);
+    background-image: url(../img/pattern.png);
+    background-size: auto 200%
+    
 }
 
 #logo {
     width: 180px;
     height: auto;
+    padding-top: 50px;
+    padding-bottom: 10px;
    
 }
 
@@ -30,4 +31,36 @@ header{
 }
 .evidenziamento_tabella{
     background-color: aqua;
+}
+
+li{
+    padding: 0px;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+.colonna{
+    width: 25%;
+}
+
+th{
+    text-align: left;
+}
+
+#monitor{
+    width: 310px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+#grafico{
+    width: 310px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    color: white;
+    font-size: 2em;
 }
